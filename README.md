@@ -1,5 +1,5 @@
 # ナンプレ問題自動生成
-![NP0-Heart](https://user-images.githubusercontent.com/63762160/111978921-cfca1b80-8b47-11eb-9dad-c46e14e9a598.png)
+![NP0-Heart](https://user-images.githubusercontent.com/63762160/111978921-cfca1b80-8b47-11eb-9dad-c46e14e9a598.png)　　
 ![NP0-Heart-2](https://user-images.githubusercontent.com/63762160/111979291-3c451a80-8b48-11eb-8315-482d9a7584ff.png)
 
 ナンプレの問題を自動生成するプログラムを公開します。
