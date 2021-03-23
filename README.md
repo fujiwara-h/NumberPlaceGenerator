@@ -71,3 +71,9 @@ $ java -jar NP.jar -g HeartP.txt
 - [Sudopedia](http://sudopedia.enjoysudoku.com/)
 - [SUDOKUWIKI.ORG](https://www.sudokuwiki.org/)
 - [南碁空のナンプレ攻略の広場](https://nangoqoo.jimdofree.com/)
+
+## 願望
+
+日本中、世界中に、数字がやたらに多いナンプレ(SUDOKU)の問題が氾濫しています。
+ヒント数20以下のすっきりした、でもやさしい問題がこんな短いプログラムで作れます。
+これで、汚い問題が、もっとエレガントな問題に入れ替わるキッカケになればと思っています。
