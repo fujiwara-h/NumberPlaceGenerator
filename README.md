@@ -65,6 +65,9 @@ $ java -jar NP.jar -g HeartP.txt
 - [タイムインターメディア](https://www.timedia.co.jp/)
 - [組合せゲーム・パズル(CGP) プロジェクト](http://www.alg.cei.uec.ac.jp/itohiro/Games/)
 - [UECアライアンスセンター](https://www.uac.uec.ac.jp/)
+- [MATH POWER 2018 開催報告レポート ～1日目～](https://wakara.co.jp/event/20181007)、[～2日目～](https://wakara.co.jp/event/20181008)
 　
 - [数独のルール](https://www.nikoli.co.jp/ja/puzzles/sudoku/)
+- [Sudopedia](http://sudopedia.enjoysudoku.com/)
+- [SUDOKUWIKI.ORG](https://www.sudokuwiki.org/)
 - [南碁空のナンプレ攻略の広場](https://nangoqoo.jimdofree.com/)
