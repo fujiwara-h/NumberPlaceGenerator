@@ -58,3 +58,13 @@ $ java -jar NP.jar -g HeartP.txt
 パズルの世界は、アルゴリズムの宝庫です。
 進化計算を理解すると、さまざまな問題を解決できるようになります。
 産業界でも、人間には複雑過ぎる問題を解くのに利用されています。
+
+## リンク
+
+- [進化計算「天啓｜TENKEI」](https://tenkei.ai/)
+- [タイムインターメディア](https://www.timedia.co.jp/)
+- [組合せゲーム・パズル(CGP) プロジェクト](http://www.alg.cei.uec.ac.jp/itohiro/Games/)
+- [UECアライアンスセンター](https://www.uac.uec.ac.jp/)
+　
+- [数独のルール](https://www.nikoli.co.jp/ja/puzzles/sudoku/)
+- [南碁空のナンプレ攻略の広場](https://nangoqoo.jimdofree.com/)
